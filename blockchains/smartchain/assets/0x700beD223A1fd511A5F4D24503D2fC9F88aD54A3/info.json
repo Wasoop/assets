@@ -1,0 +1,25 @@
+{
+    "name": "Safepox",
+    "website": "https://safepox.space",
+    "description": "Stay safe from the Monkeypox pandemic, stay $SAFEPOX!",
+    "explorer": "https://bscscan.com/token/0x700beD223A1fd511A5F4D24503D2fC9F88aD54A3",
+    "type": "BEP20",
+    "symbol": "SAFEPOX",
+    "decimals": 9,
+    "status": "active",
+    "id": "https://bscscan.com/token/0x700beD223A1fd511A5F4D24503D2fC9F88aD54A3",
+    "links": [
+        {
+            "name": "twitter",
+            "url": "https://twitter.com/SafePox"
+        },
+        {
+            "name": "telegram",
+            "url": "https://t.me/SafePoxBSC"
+        },
+ 	{
+            "name": "discord",
+            "url": "https://discord.gg/zHmd8yeta7"
+        }
+    ]
+}
